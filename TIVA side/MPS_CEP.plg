@@ -1,0 +1,150 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\WorkSpaces\Keil\CEP\MPS_CEP.uvproj
+Project File Date:  12/21/2023
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling startup_TM4C123.s...
+compiling MPS_CEP.c...
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(643): warning:  #1-D: last line of file ends without a newline
+MPS_CEP.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 14 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(613): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(618): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(623): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(628): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(633): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(643): warning:  #1-D: last line of file ends without a newline
+MPS_CEP.c(533): warning:  #177-D: variable "j" was declared but never referenced
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 14 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(642): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=10416 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 12 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=10452 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=10452 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(612): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(617): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(622): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(627): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+MPS_CEP.c(632): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+linking...
+Program Size: Code=10452 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 13 Warning(s).
+Build target 'Target 1'
+compiling MPS_CEP.c...
+linking...
+Program Size: Code=9928 RO-data=828 RW-data=8 ZI-data=1624  
+FromELF: creating hex file...
+".\MPS_CEP.axf" - 0 Errors, 0 Warning(s).
